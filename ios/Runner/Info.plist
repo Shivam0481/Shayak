@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>CFBundleURLTypes</key>
+		<array>
+			<dict>
+				<key>CFBundleTypeRole</key>
+				<string>Editor</string>
+				<key>CFBundleURLSchemes</key>
+				<array>
+					<string>com.googleusercontent.apps.878485283395-ihfbapi52j4geb1c9qf8vp49ablgol34</string>
+				</array>
+			</dict>
+		</array>
+		<key>CFBundleDevelopmentRegion</key>
+		<string>$(DEVELOPMENT_LANGUAGE)</string>
+		<key>CFBundleDisplayName</key>
+		<string>Shayak</string>
+		<key>CFBundleExecutable</key>
+		<string>$(EXECUTABLE_NAME)</string>
+		<key>CFBundleIdentifier</key>
+		<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+		<key>CFBundleInfoDictionaryVersion</key>
+		<string>6.0</string>
+		<key>CFBundleName</key>
+		<string>shayak</string>
+		<key>CFBundlePackageType</key>
+		<string>APPL</string>
+		<key>CFBundleShortVersionString</key>
+		<string>$(FLUTTER_BUILD_NAME)</string>
+		<key>CFBundleSignature</key>
+		<string>????</string>
+		<key>CFBundleVersion</key>
+		<string>$(FLUTTER_BUILD_NUMBER)</string>
+		<key>LSRequiresIPhoneOS</key>
+		<true/>
+		<key>UILaunchStoryboardName</key>
+		<string>LaunchScreen</string>
+		<key>UIMainStoryboardFile</key>
+		<string>Main</string>
+		<key>UISupportedInterfaceOrientations</key>
+		<array>
+			<string>UIInterfaceOrientationPortrait</string>
+			<string>UIInterfaceOrientationLandscapeLeft</string>
+			<string>UIInterfaceOrientationLandscapeRight</string>
+		</array>
+		<key>UISupportedInterfaceOrientations~ipad</key>
+		<array>
+			<string>UIInterfaceOrientationPortrait</string>
+			<string>UIInterfaceOrientationPortraitUpsideDown</string>
+			<string>UIInterfaceOrientationLandscapeLeft</string>
+			<string>UIInterfaceOrientationLandscapeRight</string>
+		</array>
+		<key>CADisableMinimumFrameDurationOnPhone</key>
+		<true/>
+		<key>UIApplicationSupportsIndirectInputEvents</key>
+		<true/>
+		<!-- Google Maps -->
+		<key>GMSApiKey</key>
+		<string>AIzaSyBsoCzIeBDP0Mlmx5B3pVCHydOiSiP9mcA</string>
+		<!-- Location -->
+		<key>NSLocationWhenInUseUsageDescription</key>
+		<string>Shayak needs your location to show nearby rescue requests and assign you to tasks.</string>
+		<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+		<string>Shayak uses background location to keep rescue coordination active during disasters.</string>
+		<key>NSLocationAlwaysUsageDescription</key>
+		<string>Shayak uses background location for disaster coordination.</string>
+		<!-- Camera -->
+		<key>NSCameraUsageDescription</key>
+		<string>Shayak uses your camera to attach photos to rescue requests.</string>
+		<!-- Microphone / Voice Requests -->
+		<key>NSMicrophoneUsageDescription</key>
+		<string>Shayak uses the microphone to record voice messages for rescue requests.</string>
+		<!-- Photo Library -->
+		<key>NSPhotoLibraryUsageDescription</key>
+		<string>Shayak may access your photo library to attach images to requests.</string>
+		<!-- Bluetooth (Mesh networking) -->
+		<key>NSBluetoothAlwaysUsageDescription</key>
+		<string>Shayak uses Bluetooth to discover nearby devices and build an offline mesh network during disasters.</string>
+		<key>NSBluetoothPeripheralUsageDescription</key>
+		<string>Shayak uses Bluetooth for offline peer-to-peer rescue coordination.</string>
+		<!-- Local Network (Nearby Connections) -->
+		<key>NSLocalNetworkUsageDescription</key>
+		<string>Shayak uses the local network to communicate with nearby devices offline.</string>
+		<key>NSBonjourServices</key>
+		<array>
+			<string>_shayak-mesh._tcp</string>
+			<string>_shayak-mesh._udp</string>
+		</array>
+		<!-- Background Modes -->
+		<key>UIBackgroundModes</key>
+		<array>
+			<string>fetch</string>
+			<string>remote-notification</string>
+			<string>bluetooth-central</string>
+			<string>bluetooth-peripheral</string>
+		</array>
+		<key>UIStatusBarHidden</key>
+		<false/>
+	</dict>
+</plist>

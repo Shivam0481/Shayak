@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "stitch": {
+      "command": "/Users/shivamrajput/.nvm/versions/node/v22.22.2/bin/npx",
+      "args": [
+        "-y",
+        "@stitch/mcp"
+      ]
+    }
+  }
+}

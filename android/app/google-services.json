@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "878485283395",
+    "project_id": "shayak-6957e",
+    "storage_bucket": "shayak-6957e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878485283395:android:0b2c16cad165b0b6c12af6",
+        "android_client_info": {
+          "package_name": "com.example.shayak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878485283395-u0p3jk58f0n3q0us1hhesd654nn6kadj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLD-vpq_jUJFuqCnlh8g_kMvg2QdDFLbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878485283395-u0p3jk58f0n3q0us1hhesd654nn6kadj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "878485283395-ihfbapi52j4geb1c9qf8vp49ablgol34.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shayak"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,35 @@
+{
+  "@@locale": "hi",
+  "appTitle": "शायक",
+  "hello": "नमस्ते, {name} 👋",
+  "@hello": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "whatDoYouNeedHelpWith": "आपको किस मदद की जरूरत है?",
+  "oneTapSos": "वन टैप एसओएस",
+  "emergencyRescueAlert": "आपातकालीन बचाव अलर्ट",
+  "nearbyRequests": "आस-पास के अनुरोध",
+  "seeAll": "सभी देखें",
+  "noActiveRequests": "आस-पास कोई सक्रिय अनुरोध नहीं",
+  "areaSafe": "आपका क्षेत्र अभी सुरक्षित है।",
+  "newRequest": "नया अनुरोध",
+  "tapToOpenMap": "लाइव मैप खोलने के लिए टैप करें",
+  "markersDescription": "लाल • पीला • हरा मार्कर",
+  "available": "उपलब्ध",
+  "offline": "ऑफ़लाइन",
+  "food": "खाना",
+  "blood": "खून",
+  "medicine": "दवा",
+  "rescue": "बचाव",
+  "mentalHealth": "मानसिक स्वास्थ्य",
+  "transport": "यातायात",
+  "labour": "मजदूर",
+  "other": "अन्य",
+  "respond": "जवाब दें",
+  "cancel": "रद्द करें",
+  "requestDetails": "अनुरोध विवरण"
+}

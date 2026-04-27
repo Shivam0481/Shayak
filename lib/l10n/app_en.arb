@@ -1,0 +1,35 @@
+{
+  "@@locale": "en",
+  "appTitle": "SHAYAK",
+  "hello": "Hello, {name} 👋",
+  "@hello": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "whatDoYouNeedHelpWith": "What do you need help with?",
+  "oneTapSos": "ONE TAP SOS",
+  "emergencyRescueAlert": "Emergency rescue alert",
+  "nearbyRequests": "Nearby Requests",
+  "seeAll": "See All",
+  "noActiveRequests": "No active requests nearby",
+  "areaSafe": "Your area is safe right now.",
+  "newRequest": "New Request",
+  "tapToOpenMap": "Tap to open Live Map",
+  "markersDescription": "Red • Yellow • Green markers",
+  "available": "Available",
+  "offline": "Offline",
+  "food": "Food",
+  "blood": "Blood",
+  "medicine": "Medicine",
+  "rescue": "Rescue",
+  "mentalHealth": "Mental Health",
+  "transport": "Transport",
+  "labour": "Labour",
+  "other": "Other",
+  "respond": "Respond",
+  "cancel": "Cancel",
+  "requestDetails": "Request Details"
+}
